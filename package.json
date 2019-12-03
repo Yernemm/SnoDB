@@ -1,0 +1,22 @@
+{
+  "name": "snodb",
+  "version": "1.0.0",
+  "description": "sqlite wrapper allowing for noSQL access of JSON from a main database. Used by SnoBot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yernemm/SnoDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yernemm/SnoDB/issues"
+  },
+  "homepage": "https://github.com/Yernemm/SnoDB#readme",
+  "dependencies": {
+    "sqlite": "^3.0.3"
+  }
+}
